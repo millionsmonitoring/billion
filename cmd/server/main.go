@@ -4,8 +4,8 @@ import (
 	"context"
 	"log/slog"
 
-	"github.com/anurag925/billion/cmd"
-	"github.com/anurag925/billion/configs"
+	"github.com/millionsmonitoring/billion/cmd"
+	"github.com/millionsmonitoring/billion/configs"
 	"github.com/millionsmonitoring/millionsgocore/env"
 )
 

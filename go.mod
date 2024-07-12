@@ -1,4 +1,4 @@
-module github.com/anurag925/billion
+module github.com/millionsmonitoring/billion
 
 go 1.22.4
 

@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/anurag925/billion/configs"
 	_ "github.com/joho/godotenv/autoload"
+	"github.com/millionsmonitoring/billion/configs"
 	"github.com/millionsmonitoring/millionsgocore/env"
 	"github.com/millionsmonitoring/millionsgocore/initializers"
 	"github.com/millionsmonitoring/millionsgocore/logger"
